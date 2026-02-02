@@ -10,7 +10,6 @@
 #include "qemu/target-info.h"
 #include "qemu/target-info-qapi.h"
 #include "qemu/target-info-impl.h"
-#include "qapi/error.h"
 
 const char *target_name(void)
 {
